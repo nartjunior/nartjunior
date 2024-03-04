@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I am a Flutter Developer Intern at Cuestoft, where I have spent the last three months mastering my skillsthrough hands-on experience with real projects in the Company. 
-This internship helped me put what I'velearned into real-world projects, playing a big part in creating strong software solutions.
+| Always ready to Contribute to Innovative Projects |
 
-I have foundation in computer science and engineering, cultivated my skills through various training coursesand rigorous academic studies.
-Proficient in Java, PHP, JavaScript, HTML5, CSS, MySQL, Dart and Flutter.
-Independently learned Flutter for four months, developing a personal Android app.
+I'm a Flutter Developer who enjoys learning and working on projects. I taught myself Flutter for over a year and even made my own Android app to learn more about it. I've also freelanced on different projects, like creating a unit converter for the Malmath app and a clothing app for a client. Doing these projects made me even more passionate about mobile development.
+
+That's why I decided to do a 6-month internship at Cuesoft, where I worked on real projects. I helped develop a Flutter app for Apparule and the Cueprise HR App. I also worked on other projects, like the Cueprise and Dashboard apps.
+
+I have a strong background in Computer Science and Engineering, and I've taken training courses and studied at University. I'm excited to use my knowledge as a Flutter developer. I'm always learning and ready to help with important projects.
 
 
