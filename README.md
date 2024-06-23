@@ -2,7 +2,16 @@
 
 | Always ready to Contribute to Innovative Projects |
 
-I'm a Flutter Developer who enjoys learning and working on projects. I taught myself Flutter for over a year and even made my own Android app to learn more about it. I've also freelanced on different projects, like creating a unit converter for the Malmath app and a clothing app for a client. Doing these projects made me even more passionate about mobile development.
+I'm a Mobile App developer who's all about making awesome mobile apps. 
+
+I began my journey with Mobile App and Flutter through self-learning and online courses, eventually building my own Android application.
+
+With over 4 years of experience in software development, I have a strong foundation in various programming languages and frameworks.
+My understanding of the basics of web development (HTML, CSS, JavaScript) allows me to create user-friendly and visually appealing interfaces.
+
+Now Im using Js frameworks, like React and NextJs to expand my skills and my projects. 
+
+I've also freelanced on different projects, like creating a unit converter for the Malmath app and a clothing app for a client. Doing these projects made me even more passionate about mobile development.
 
 That's why I decided to do a 6-month internship at Cuesoft, where I worked on real projects. I helped develop a Flutter app for Apparule and the Cueprise HR App. I also worked on other projects, like the Cueprise and Dashboard apps.
 
